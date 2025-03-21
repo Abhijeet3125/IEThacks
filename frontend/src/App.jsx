@@ -10,6 +10,9 @@ function App() {
       <div>
         <Header />
         <h1>Landing page</h1>
+        <h1>hey this is the landing page
+          
+        </h1>
       </div>
     </>
   );
